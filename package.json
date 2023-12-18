@@ -1,0 +1,19 @@
+{
+	"name": "2fa",
+	"type": "module",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node ."
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"2fa-util": "^1.1.1",
+		"cookie-session": "^2.0.0",
+		"express": "^4.17.2",
+		"quick.replit": "^1.0.3"
+	}
+}
